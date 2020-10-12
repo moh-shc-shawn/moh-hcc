@@ -7,14 +7,8 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Faq
     url: /faq/
-  - title: Privacy Statement
-    url: /privacy-statement/
-  - title: Terms Of Use
-    url: /terms-of-use/
   - title: Who We Are
     url: /who-we-are/
   - title: Left Nav One
