@@ -9,8 +9,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Faq
     url: /faq/
-  - title: Who We Are
-    url: /who-we-are/
   - title: Left Nav One
     collection: left-nav-one
   - title: Left Nav Two
